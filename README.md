@@ -46,6 +46,6 @@ Honors: Cum Laude, High Honors in Neuroscience, Mu Sigma Rho (Statistics), Sigma
 
 **AI Workflow:** Claude Max subscriber; actively use AI to learn new skills including Python programming, data visualization, and to rapidly build domain knowledge in new fields such as insurance markets, neurodegenerative disease therapeutics, and brain cancer drug pipelines.
 
-**Publications/Posters:** Iascone, D.M., Pivarshev, P., Yang, J., Valencia, M.L., Noya, S.B., Lin, H., Anafi, R.C., Bedont, J.L., Sehgal, A. Tanycyte Bmal1 sex-specifically regulates weight gain and hypothalamic neurogenesis in female mice. *Cell Reports* in review.
+**Publications/Posters:** Iascone, D.M., Pivarshev, P., Yang, J., Valencia, M.L., Noya, S.B., Lin, H., Anafi, R.C., Bedont, J.L., Sehgal, A. Tanycyte Bmal1 sex-specifically regulates weight gain and hypothalamic neurogenesis in female mice. *Cell Reports* Accepted.
 
 **Interests:** Hiking, traveling, photography, dancing
