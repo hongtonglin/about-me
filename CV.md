@@ -1,8 +1,8 @@
 # Hongtong Lin  
 
   
-+86 189-3971-2915 | [hongtonglin01@gmail.com](mailto:hongtonglin01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hongtong-lin/) | [GitHub](https://github.com/hongtonglin)  
-+1 805-869-8782 | hl3464@cumc.columbia.edu  
+[hongtonglin01@gmail.com](mailto:hongtonglin01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hongtong-lin/) | [GitHub](https://github.com/hongtonglin)  
+hl3464@cumc.columbia.edu  
 
 ---
 
@@ -78,8 +78,6 @@ Honors: Cum Laude, High Honors in Neuroscience
 ---
 
 ## PUBLICATIONS AND PRESENTATIONS
-
-Ye, W., Sun, L., Tian, Y., Yuan, X., Li, H., Zeng, P., Li, Z., Xu, J., **Lin, H.**, and Guo, F. (2025). Integrating and Transmitting Behavioral and Physiological States via an Ascending Neural Circuit to Modulate Sleep Demand. *Nature* (under review).
 
 Iascone, D., Pivarshev, P., Yang, J., Valencia, M., Noya, S., **Lin, H.**, Anafi, R., Bedont, J., and Sehgal, A. (2025). Tanycyte Bmal1 sex-specifically regulates weight gain and hypothalamic neurogenesis in female mice. *Cell Reports* (Accepted).
 
