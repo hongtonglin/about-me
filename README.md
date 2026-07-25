@@ -1,7 +1,7 @@
 # Hongtong Lin
 
-+86 189-3971-2915 | hongtonglin01@gmail.com | [LinkedIn](https://www.linkedin.com/in/hongtong-lin/) | [GitHub](https://github.com/hongtonglin)  
-+1 805-869-8782 | hl3464@cumc.columbia.edu  
+hongtonglin01@gmail.com | [LinkedIn](https://www.linkedin.com/in/hongtong-lin/) | [GitHub](https://github.com/hongtonglin)  
+hl3464@cumc.columbia.edu  
 
 ---
 
