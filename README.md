@@ -12,10 +12,10 @@ hl3464@cumc.columbia.edu
 
 **Smith College** | Northampton, MA | Aug. 2020 – Dec. 2022  
 **B.A.**, Neuroscience; Statistical and Data Science | GPA 3.93  
-Honors: Cum Laude, High Honors in Neuroscience, Mu Sigma Rho (Statistics), Sigma Xi (Research), Nu Rho Psi (Neuroscience)
+Honors: Cum Laude, High Honors in Neuroscience, Member of Mu Sigma Rho (Statistics), Sigma Xi (Research), Nu Rho Psi (Neuroscience)
 
 **University of California Santa Barbara** | Isla Vista, CA | Aug. 2019 – Jun. 2020  
-**B.S.**, Psychological and Brain Sciences | GPA 3.92 
+Major: Psychological and Brain Sciences | GPA 3.92 
 
 ---
 
