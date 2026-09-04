@@ -16,7 +16,7 @@ hl3464@cumc.columbia.edu
 Honors: Cum Laude, High Honors in Neuroscience
 
 **University of California, Santa Barbara** | Isla Vista, CA | Aug 2019 – Aug 2020  
-**B.S.**, Psychological and Brain Sciences | Dean's List
+Major: Psychological and Brain Sciences | Dean's List
 
 ---
 
@@ -26,7 +26,7 @@ Honors: Cum Laude, High Honors in Neuroscience
 ***Research Technician; Advisor: Dr. Hsiao-Tuan Chao***  
 *Ebf3 regulation in mouse brain development and the neuronal basis for Ebf3-related behavioral phenotypes.*
 
-* Discovered the cerebellum size, but not the olfactory bulb size, is smaller in 14-day old heterozygous Ebf3 knockout mice, compared to the Ebf3 wildtype mice.
+* Discovered the cerebellum size, but not the olfactory bulb size, is smaller in 14-day old heterozygous *Ebf3* knockout mice, compared to the *Ebf3* wildtype mice.
 * Confirmed EBF3 protein expressions are lower in newborn heterozygous Ebf3 knockout mice, compared to Ebf3 wildtype mice.
 * Conducted 22 behavioral experiments on 200 mice over 40 weeks, analyzing and visualizing data from 4 anxiety tests using **R**. Presented findings in lab meetings and demonstrated that the transgenic mice showed significantly less anxiety compared to the controlled groups.
 * Developed automated image processing pipeline in Fiji/ImageJ, reducing analysis time by **20%** and processing 100+ images through custom macro optimization.
@@ -41,7 +41,7 @@ Honors: Cum Laude, High Honors in Neuroscience
 *The contribution of Bach1 pathway to the susceptibility to Alzheimer's disease in J20 mice.*
 
 * Quantified mRNA levels of Bach1 and its potential downstream genes in 4-month old and 6-month old J20 mice to study the genetic susceptibility to Alzheimer's disease and the potential relationship between epilepsy and Alzheimer's disease.
-* Stained different proteins in 4-month old J20 mice with DAB and fluorescence staining.
+* Checked different protein expressions in 4-month old J20 mice with DAB and fluorescence staining.
 
 **Smith College** | Northampton, MA | Sep 2022 – Dec 2022  
 ***Data Analysis Student; Advisor: Mauricio Leon, Dr. Albert Young-Sun Kim***
@@ -55,8 +55,8 @@ Honors: Cum Laude, High Honors in Neuroscience
 ***Project Leader; Advisor: Dr. Mary Harrington***  
 *Circadian rhythms of mammalian skin with and without the central clock.*
 
-* Measured circadian rhythms in skin (K14 and Opn5) cells through in vivo bioluminescence recordings from freely-moving mice under different light dark cycles and with different wavelengths of light.
-* Detected circadian rhythms in K14-expressing cells in vivo in constant darkness after bilateral SCN lesions.
+* Measured circadian rhythms in skin (*K14* and *Opn5*) cells through in vivo bioluminescence recordings from freely-moving mice under different light dark cycles and with different wavelengths of light.
+* Detected circadian rhythms in *K14*-expressing cells in vivo in constant darkness after bilateral SCN lesions.
 * Analyzed circadian bioluminescent readings from the skin cells of freely moving mice using an R Shiny app developed by Dr. Tanya Leise's lab at Amherst College.
 * Enhanced the app's functionality by revising its code and visualized circadian data on 2 posters, presenting findings at international and local neuroscience conferences.
 
@@ -64,7 +64,7 @@ Honors: Cum Laude, High Honors in Neuroscience
 ***Visiting Undergraduate Researcher; Advisor: Dr. Amita Sehgal and Dr. Daniel Iascone***  
 *The role of core clock gene Bmal1 in adult neurogenesis in the hypothalamus of both male and female mice.*
 
-* Used tamoxifen-induced Cre/loxP system to study the role of a circadian gene Bmal1 in hypothalamic neurogenesis in adult mice.
+* Used tamoxifen-induced Cre/loxP system to study the role of a circadian gene *Bmal1* in hypothalamic neurogenesis in adult mice.
 * Discovered Rax-expressing cells marked with tdTomato signals in the medial pre-optic area in Bmal1 KO mice compared to heterozygous Bmal1 mice (preliminary data).
 
 **School of Brain Science and Brain Medicine, Zhejiang University** | Hangzhou, China | Jun 2021 – Aug 2021  
