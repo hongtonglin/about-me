@@ -79,7 +79,7 @@ Major: Psychological and Brain Sciences | Dean's List
 
 ## PUBLICATIONS AND PRESENTATIONS
 
-Iascone, D., Pivarshev, P., Yang, J., Valencia, M., Noya, S., **Lin, H.**, Anafi, R., Bedont, J., and Sehgal, A. (2025). Tanycyte Bmal1 sex-specifically regulates weight gain and hypothalamic neurogenesis in female mice. *Cell Reports* (Accepted).
+Iascone DM, ..., **Lin H**, ..., Sehgal A. Tanycyte BMAL1 regulates high-fat diet weight gain and shapes arcuate neurogenesis in female mice. *Cell Reports*. 2026;45(7):117685.  
 
 **Lin, H.**, Lo, C., Nie, Z., and Harrington, M.E. Measures from the peripheral skin clock with and without the central clock. Fall 2022 UMass Neuroscience Poster Conference, Amherst, MA, poster: November 2022.
 
