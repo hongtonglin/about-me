@@ -46,6 +46,6 @@ Major: Psychological and Brain Sciences | GPA 3.92
 
 **AI Workflow:** Claude Max subscriber; actively use AI to learn new skills including Python programming, data visualization, and to rapidly build domain knowledge in new fields such as insurance markets, neurodegenerative disease therapeutics, and brain cancer drug pipelines.
 
-**Publications/Posters:** Iascone, D.M., Pivarshev, P., Yang, J., Valencia, M.L., Noya, S.B., Lin, H., Anafi, R.C., Bedont, J.L., Sehgal, A. Tanycyte Bmal1 sex-specifically regulates weight gain and hypothalamic neurogenesis in female mice. *Cell Reports* Accepted.
+**Publications/Posters:** Iascone DM, ..., **Lin H**, ..., Sehgal A. Tanycyte BMAL1 regulates high-fat diet weight gain and shapes arcuate neurogenesis in female mice. *Cell Reports*. 2026;45(7):117685.  
 
 **Interests:** Hiking, traveling, photography, dancing
