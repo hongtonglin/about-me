@@ -10,7 +10,7 @@ hongtonglin01@gmail.com | [LinkedIn](https://www.linkedin.com/in/hongtong-lin/) 
 **M.S.**, Biostatistics
 
 **Smith College** | Northampton, MA | Aug. 2020 – Dec. 2022  
-**B.A.**, Neuroscience; Statistical and Data Sciences  
+**B.A.**, Neuroscience; Statistical and Data Sciences | GPA: 3.93  
 Honors: Cum Laude, High Honors in Neuroscience, Honor Societies in Statistics, Research, and Neuroscience
 
 **University of California, Santa Barbara** | Isla Vista, CA | Aug. 2019 – Jun. 2020  
@@ -23,11 +23,11 @@ Coursework in Psychological and Brain Sciences
 **Whale Consulting Company Limited** (early-stage insurance brokerage) | Hong Kong, China (remote) | Jun. 2025 – Oct. 2025  
 ***Consultant Intern***
 
-- Analyzed Monetary Authority of Macao data to evaluate market entry for the brokerage founder, finding that premiums for new personal life insurance business through brokers had dropped by ~98% post-pandemic and that premiums from mainland visitors had declined across nearly all products since 2022.
-- Converted illustrated crediting rates into potential realized policyholder IRRs for 13 life and annuity plans across Hong Kong, Macao, and U.S. carriers, identifying gaps of 400+ basis points between marketed and actual returns.
+- Analyzed Monetary Authority of Macao data to evaluate market entry for the brokerage founder, finding that the premiums for new personal life insurance business through brokers had dropped by ~98% post-pandemic and the premiums from mainland visitors had declined across nearly all products since 2022.
+- Converted illustrated crediting rates into potential realized policyholder IRRs for 13 life and annuity plans across Hong Kong, Macao, and U.S. carriers, identifying gaps of 400+ basis points between illustrated and realistically modeled returns.
 - Compared 7 insurance products across 20+ criteria (carrier credit ratings, guaranteed breakeven period, asset allocation, dividend lock-in mechanics, lending bank, etc.) to match plans with client objectives.
 
-**H. Albert Napier Rice Launch Challenge** | Houston, TX | Mar. 2023 – Apr. 2023  
+**Separion LLC** | Houston, TX | Mar. 2023 – Apr. 2023  
 ***Market Research Contributor***
 
 - Compiled public market data on the lithium industry, built the market analysis slides, and wrote the pitch script for Separion LLC, a 3-person Rice University PhD lithium-extraction startup that won $18,500 across 3 prizes.
@@ -36,16 +36,16 @@ Coursework in Psychological and Brain Sciences
 ***Student Data Science Consultant***
 
 - Built and deployed an interactive R Shiny dashboard with 6 dynamic visualizations and geospatial maps from 50,000+ transportation data points to support the Council's climate scenario planning.
-- Delivered the dashboard and an R Markdown report to the Metropolitan Council, working with a 3-person team and Council staff through GitHub.
+- Delivered the dashboard and an R Markdown report to the Metropolitan Council, working with a 4-person team and Council staff through GitHub.
 
 ---
 
 ## RESEARCH EXPERIENCE
 
 **Baylor College of Medicine** | Houston, TX | Jan. 2023 – Jan. 2025  
-***Research Technician; Post-bac RA; Advisors: Drs. Hsiao-Tuan Chao, Jeannie Chin***
+***Post-bac RA; Research Technician; Advisors: Drs. Jeannie Chin, Hsiao-Tuan Chao***
 
-- Conducted 22 behavioral experiments on 200 mice over 40 weeks, analyzing 4 anxiety tests in R, finding that the transgenic mice with rare genetic mutations showed significantly less anxiety than control groups.
+- Conducted 22 behavioral experiments on 200 mice, analyzing 4 anxiety tests in R, finding that a mouse model of an *EBF3*-related rare neurodevelopmental disorder showed significantly less anxiety than control groups.
 - Quantified *Bach1*-pathway mRNA and protein expression in J20 mice to study genetic susceptibility to Alzheimer's disease and its relationship with epilepsy.
 
 **Smith College** | Northampton, MA | Jan. 2021 – Dec. 2022  
@@ -67,5 +67,7 @@ Coursework in Psychological and Brain Sciences
 **Languages:** English and Mandarin Chinese (full professional proficiency in both)
 
 **Publication:** Iascone DM, ..., **Lin H**, ..., Sehgal A. Tanycyte BMAL1 regulates high-fat diet weight gain and shapes arcuate neurogenesis in female mice. *Cell Reports*. 2026;45(7):117685.
+
+**Activities:** Columbia Mailman Consulting Club, Member (Sep. 2026 – present)
 
 **Interests:** Hiking, traveling, photography, dancing
