@@ -70,4 +70,4 @@ Coursework in Psychological and Brain Sciences
 
 **Activities:** Columbia Mailman Consulting Club, Member (Sep. 2026 – present)
 
-**Interests:** Hiking, traveling, photography, dancing
+**Interests:** Hiking, traveling, photography, dancing 
